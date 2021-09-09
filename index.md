@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Alvin
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/Alvin.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：Alvin <br>
+作者：Jonas Eika <br>
+译者：Sherilyn Nicolette Hellberg <br>
+评分：4.4/5 <br>
 
-### Markdown
+纽约客短篇，丹麦新星作家作品，呈现出北欧后资本世界的超现实故事，全文处处充满了homoerotic的气息。大概就是一个专门服务金融业的操作系统IT人员以前被前妻偷情背叛远走他乡，现在回到故乡哥本哈根帮助当地一家建筑倒塌的银行恢复系统，他到达后在街边遇到一个年轻男孩Alvin跟着他回到男孩家里，性格古怪的Alvin靠倒卖金融衍生品为生，他们同床共枕，没日没夜轮流用电脑操纵市场，一个人睡了另一个接着上，中间主角对Alvin起了反应，还接受了Alvin的按摩。两人去罗马尼亚度假在酒店里继续进行衍生品交易，Alvin在半夜离开了，主角回到哥本哈根，发现银行的楼坍塌后在内部形成了一个个不规则的隧道，工作人员用电线架起了诡异的电路系统在隧道内戴着口罩趴着办公，而银行的IT系统竟就在这支离破碎的环境中安然运行着。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/Alvin.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+故事非常散而且有很多刻意的前后不连贯，中间还充满了各种形而上的对话，尤其是Alvin对于衍生品交易市场的理解，无论是”trade the future of future”还是两人在酒店里紧靠点击鼠标就对实体农业产生巨大影响，都在不断提醒主角存在的世界已经变得非常虚无，而被前妻抛弃漂泊欧洲没有根基的主角才会如此渴望真实的情感，一脚踏进了Alvin的世界，然而Alvin本身就是靠贩卖虚无的未来为生，两人的结局也自然没有结果。而结尾的银行也是一个对主角所处环境的隐喻，整篇小说看下来感觉就是非常缥缈
